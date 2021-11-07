@@ -10,7 +10,7 @@ public class jp_02_without3rdVariable {
 			
 		}
 		System.out.println();
-		System.out.println("Vinay Kumar");
+		System.out.println("Vinay Kumar yadav");
 
 	}
 
